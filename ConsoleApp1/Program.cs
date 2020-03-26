@@ -13,8 +13,11 @@ namespace ConsoleApp1
             Console.WriteLine("Hello World");
             //gore je writeline hello world
             Console.WriteLine("yes");
-            Console.WriteLine("Golem was here");
-            //Added writeline
+        }
+
+        void aaa1()
+        {
+
         }
     }
 }
